@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhuohan Li on Zhuohan Li</title>
+    <link>http://zhuohan.li/</link>
+    <description>Recent content in Zhuohan Li on Zhuohan Li</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Last Updated: Jun. 15, 2018 · &amp;copy; 2018 Zhuohan Li</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Towards Binary-Valued Gates for Robust LSTM Training</title>
+      <link>http://zhuohan.li/publication/g2-lstm/</link>
+      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://zhuohan.li/publication/g2-lstm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ParConnect Reproducibility Report</title>
+      <link>http://zhuohan.li/publication/parconnect/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://zhuohan.li/publication/parconnect/</guid>
+      <description>&lt;p&gt;[1] Flick, Patrick, et al. &amp;ldquo;A parallel connectivity algorithm for de Bruijn graphs in metagenomic applications.&amp;rdquo; &lt;em&gt;Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis.&lt;/em&gt; ACM, 2015.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>http://zhuohan.li/talk/example-talk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://zhuohan.li/talk/example-talk/</guid>
+      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
