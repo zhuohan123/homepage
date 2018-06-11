@@ -17,6 +17,10 @@ url_pdf = "pdf/parconnect-reproducibility-report.pdf"
 # url_slides = "#"
 # url_video = "#"
 
+[[url_custom]]
+name = "ACM DL"
+url = "https://dl.acm.org/citation.cfm?id=3162842"
+
 # [[url_custom]]
 # name = "Custom Link"
 # url = "http://www.example.org"

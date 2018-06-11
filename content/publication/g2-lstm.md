@@ -17,9 +17,9 @@ url_pdf = "pdf/g2-lstm-icml18.pdf"
 # url_slides = "#"
 # url_video = "#"
 
-# [[url_custom]]
-# name = "Custom Link"
-# url = "http://www.example.org"
+[[url_custom]]
+name = "arXiv"
+url = "https://arxiv.org/abs/1806.02988"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
