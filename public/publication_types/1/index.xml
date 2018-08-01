@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 on Zhuohan Li</title>
-    <link>http://zhuohan.li/publication_types/1/</link>
+    <link>https://zhuohan.li/publication_types/1/</link>
     <description>Recent content in 1 on Zhuohan Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>Towards Binary-Valued Gates for Robust LSTM Training</title>
-      <link>http://zhuohan.li/publication/g2-lstm/</link>
+      <link>https://zhuohan.li/publication/g2-lstm/</link>
       <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://zhuohan.li/publication/g2-lstm/</guid>
+      <guid>https://zhuohan.li/publication/g2-lstm/</guid>
       <description></description>
     </item>
     

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types on Zhuohan Li</title>
-    <link>http://zhuohan.li/publication_types/</link>
+    <link>https://zhuohan.li/publication_types/</link>
     <description>Recent content in Publication_types on Zhuohan Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,19 +12,19 @@
     
     <item>
       <title>1</title>
-      <link>http://zhuohan.li/publication_types/1/</link>
+      <link>https://zhuohan.li/publication_types/1/</link>
       <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://zhuohan.li/publication_types/1/</guid>
+      <guid>https://zhuohan.li/publication_types/1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2</title>
-      <link>http://zhuohan.li/publication_types/2/</link>
+      <link>https://zhuohan.li/publication_types/2/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://zhuohan.li/publication_types/2/</guid>
+      <guid>https://zhuohan.li/publication_types/2/</guid>
       <description></description>
     </item>
     

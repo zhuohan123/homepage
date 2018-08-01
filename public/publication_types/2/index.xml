@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 on Zhuohan Li</title>
-    <link>http://zhuohan.li/publication_types/2/</link>
+    <link>https://zhuohan.li/publication_types/2/</link>
     <description>Recent content in 2 on Zhuohan Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>ParConnect Reproducibility Report</title>
-      <link>http://zhuohan.li/publication/parconnect/</link>
+      <link>https://zhuohan.li/publication/parconnect/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://zhuohan.li/publication/parconnect/</guid>
+      <guid>https://zhuohan.li/publication/parconnect/</guid>
       <description>&lt;p&gt;[1] Flick, Patrick, et al. &amp;ldquo;A parallel connectivity algorithm for de Bruijn graphs in metagenomic applications.&amp;rdquo; &lt;em&gt;Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis.&lt;/em&gt; ACM, 2015.&lt;/p&gt;
 </description>
     </item>
