@@ -6,7 +6,7 @@
     <description>Recent content in Publications on Zhuohan Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Last Updated: Jun. 11, 2018 · &amp;copy; 2018 Zhuohan Li</copyright>
+    <copyright>Last Updated: Oct. 17, 2018 · &amp;copy; 2018 Zhuohan Li</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
@@ -20,9 +20,19 @@
     </item>
     
     <item>
+      <title>Reproducing Vectorization of the Tersoff Multi-Body Potential on the Intel Broadwell Architecture</title>
+      <link>https://zhuohan.li/publication/tersoff/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhuohan.li/publication/tersoff/</guid>
+      <description>&lt;p&gt;[1] Höhnerbach, Markus, Ahmed E. Ismail, and Paolo Bientinesi. &amp;ldquo;The vectorization of the tersoff multi-body potential: an exercise in performance portability.&amp;rdquo; &lt;em&gt;Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis.&lt;/em&gt; IEEE Press, 2016.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>ParConnect Reproducibility Report</title>
       <link>https://zhuohan.li/publication/parconnect/</link>
-      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://zhuohan.li/publication/parconnect/</guid>
       <description>&lt;p&gt;[1] Flick, Patrick, et al. &amp;ldquo;A parallel connectivity algorithm for de Bruijn graphs in metagenomic applications.&amp;rdquo; &lt;em&gt;Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis.&lt;/em&gt; ACM, 2015.&lt;/p&gt;

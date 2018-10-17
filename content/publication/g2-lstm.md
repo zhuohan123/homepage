@@ -21,6 +21,10 @@ url_pdf = "pdf/g2-lstm-icml18.pdf"
 name = "arXiv"
 url = "https://arxiv.org/abs/1806.02988"
 
+[[url_custom]]
+name = "Blog Post (Chinese)"
+url = "https://mp.weixin.qq.com/s?__biz=MzAwMTA3MzM4Nw==&mid=2649443972&idx=1&sn=9c73d0e3afd003031905457fb3e33bc4&chksm=82c0a700b5b72e166ebd0884ec36a9ceaff9e5254c2c2b586e9f9b9ea4577a0337d1a5bde34f&scene=21#wechat_redirect"
+
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = "headers/bubbles-wide.jpg"

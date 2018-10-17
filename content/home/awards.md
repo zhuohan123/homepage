@@ -26,4 +26,5 @@ detailed_list = false
   - 6th place at SC16, 4th place at SC17.
 - **Scholarships**
   - Founder Scholarship (2015-2016, Peking University);
-  - Huawei Scholarship (2016-2017, Peking University).
+  - Huawei Scholarship (2016-2017, Peking University);
+  - National Scholarship (2017-2018, Peking University).
