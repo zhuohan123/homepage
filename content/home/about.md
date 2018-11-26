@@ -44,7 +44,7 @@ weight = 1
 
 # Biography
 
-I am a senior student majoring in computer science at [Peking University (PKU)](http://english.pku.edu.cn), advised by Professor [Liwei Wang](http://www.cis.pku.edu.cn/faculty/vision/wangliwei/). I am also a research intern in [Machine Learning Group at Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/), mentored by Doctor [Tao Qin](https://www.microsoft.com/en-us/research/people/taoqin/). In the past summer, I had a great time with Professor [Leonidas Guibas](https://geometry.stanford.edu/member/guibas/) at Stanford.
+I am a senior student majoring in computer science at [Peking University (PKU)](http://english.pku.edu.cn), advised by Professor [Liwei Wang](http://www.cis.pku.edu.cn/faculty/vision/wangliwei/). I am also a research intern in [Machine Learning Group at Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/), mentored by [Tie-Yan Liu](https://www.microsoft.com/en-us/research/people/tyliu/) and [Tao Qin](https://www.microsoft.com/en-us/research/people/taoqin/). In the past summer, I had a great time with Professor [Leonidas Guibas](https://geometry.stanford.edu/member/guibas/) at Stanford.
 
 My main research interest is machine learning in general. Previously, I have worked on sequence modeling and 3D deep learning. I try to find insights from different domains and use them to improve the performance (accuracy, efficiency, interpretability) of current machine learning models.
 
