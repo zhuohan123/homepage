@@ -14,8 +14,8 @@ url_code = "https://github.com/zhuohan123/g2-lstm"
 # url_dataset = "#"
 url_pdf = "pdf/g2-lstm-icml18.pdf"
 # url_project = "project/deep-learning/"
-# url_slides = "#"
-# url_video = "#"
+url_slides = "pdf/g2-lstm-icml18-slides.pdf"
+url_video = "https://vimeo.com/287802865"
 
 [[url_custom]]
 name = "arXiv"
