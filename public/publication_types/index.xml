@@ -6,9 +6,11 @@
     <description>Recent content in Publication_types on Zhuohan Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Last Updated: Oct. 17, 2018 · &amp;copy; 2018 Zhuohan Li</copyright>
+    <copyright>Last Updated: Mar. 29, 2019 · &amp;copy; 2019 Zhuohan Li</copyright>
     <lastBuildDate>Thu, 05 Jul 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/publication_types/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://zhuohan.li/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>1</title>

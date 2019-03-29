@@ -1,6 +1,6 @@
 baseurl = "https://zhuohan.li/"  # End your URL with a `/` trailing slash.
 title = "Zhuohan Li"
-copyright = "Last Updated: Oct. 17, 2018 · &copy; 2018 Zhuohan Li"
+copyright = "Last Updated: Mar. 29, 2019 · &copy; 2019 Zhuohan Li"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -150,7 +150,7 @@ defaultContentLanguageInSubdir = false
 #   The weight parameter defines the order that the links will appear in.
 
 [[menu.main]]
-  name = "Home"
+  name = "About Me"
   url = "#about"
   weight = 1
 

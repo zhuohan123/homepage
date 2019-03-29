@@ -28,26 +28,26 @@ weight = 1
 [[experience.courses]]
   course = "Microsoft Research Asia"
   institution = "Research Intern in Machine Learning Group"
-  year = "Jun. 2017 - Jun. 2018, Sept. 2018 - Present"
+  year = "Jun. 2017 - Jun. 2018, Sept. 2018 - Mar. 2019"
+  advisor = "[Di He](https://www.microsoft.com/en-us/research/people/dihe/) and [Tao Qin](https://www.microsoft.com/en-us/research/people/taoqin/)"
 
 [[experience.courses]]
   course = "Stanford University"
   institution = "Research Intern"
   year = "Jun. 2018 - Sept. 2018"
+  advisor = "[Li Yi](https://cs.stanford.edu/~ericyi/) and [Leo Guibas](https://geometry.stanford.edu/member/guibas/)"
 
 [[experience.courses]]
   course = "Key Laboratory of Machine Perception (MOE), Peking Unviersity"
   institution = "Research Intern"
   year = "Sept. 2016 - Present"
+  advisor = "[Liwei Wang](ttp://www.cis.pku.edu.cn/faculty/vision/wangliwei/)"
 
 +++
 
-# Biography
+# About Me
 
-I am a senior student majoring in computer science at [Peking University (PKU)](http://english.pku.edu.cn), advised by Professor [Liwei Wang](http://www.cis.pku.edu.cn/faculty/vision/wangliwei/). I am also a research intern in [Machine Learning Group at Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/), mentored by [Tie-Yan Liu](https://www.microsoft.com/en-us/research/people/tyliu/) and [Tao Qin](https://www.microsoft.com/en-us/research/people/taoqin/). In the past summer, I had a great time with Professor [Leonidas Guibas](https://geometry.stanford.edu/member/guibas/) at Stanford.
+I am currently finishing my undergraduate study at Peking University, advised by Prof. [Liwei Wang](http://www.cis.pku.edu.cn/faculty/vision/wangliwei/). Previously, I was a research intern at Microsoft Research Asia and Stanford University. I will join UC Berkeley as a CS PhD student in fall 2019.
 
 My main research interest is machine learning in general. Previously, I have worked on sequence modeling and 3D deep learning. I try to find insights from different domains and use them to improve the performance (accuracy, efficiency, interpretability) of current machine learning models.
 
-I am a contestant of ACM-ICPC and I have won gold medals at Regional and China-Final contests. I am also a member of student cluster competition team at PKU, and participated in the competition at [SC16](http://sc16.supercomputing.org/studentssc/student-cluster-competition/index.html) and [SC17](https://sc17.supercomputing.org/studentssc/student-cluster-competition/).
-
-I will apply for a Ph.D in Fall 2018. Please do not hesitate to contact me if you are interested.

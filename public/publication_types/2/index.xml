@@ -6,9 +6,11 @@
     <description>Recent content in 2 on Zhuohan Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Last Updated: Oct. 17, 2018 · &amp;copy; 2018 Zhuohan Li</copyright>
+    <copyright>Last Updated: Mar. 29, 2019 · &amp;copy; 2019 Zhuohan Li</copyright>
     <lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/publication_types/2/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://zhuohan.li/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Reproducing Vectorization of the Tersoff Multi-Body Potential on the Intel Broadwell Architecture</title>
@@ -16,8 +18,7 @@
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>https://zhuohan.li/publication/tersoff/</guid>
-      <description>&lt;p&gt;[1] Höhnerbach, Markus, Ahmed E. Ismail, and Paolo Bientinesi. &amp;ldquo;The vectorization of the tersoff multi-body potential: an exercise in performance portability.&amp;rdquo; &lt;em&gt;Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis.&lt;/em&gt; IEEE Press, 2016.&lt;/p&gt;
-</description>
+      <description>[1] Höhnerbach, Markus, Ahmed E. Ismail, and Paolo Bientinesi. &amp;ldquo;The vectorization of the tersoff multi-body potential: an exercise in performance portability.&amp;rdquo; Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis. IEEE Press, 2016.</description>
     </item>
     
     <item>
@@ -26,8 +27,7 @@
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://zhuohan.li/publication/parconnect/</guid>
-      <description>&lt;p&gt;[1] Flick, Patrick, et al. &amp;ldquo;A parallel connectivity algorithm for de Bruijn graphs in metagenomic applications.&amp;rdquo; &lt;em&gt;Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis.&lt;/em&gt; ACM, 2015.&lt;/p&gt;
-</description>
+      <description>[1] Flick, Patrick, et al. &amp;ldquo;A parallel connectivity algorithm for de Bruijn graphs in metagenomic applications.&amp;rdquo; Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis. ACM, 2015.</description>
     </item>
     
   </channel>
