@@ -6,7 +6,7 @@
     <description>Recent content in Homes on Zhuohan Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Last Updated: Mar. 29, 2019 · &amp;copy; 2019 Zhuohan Li</copyright>
+    <copyright>Last Updated: May. 20, 2019 · &amp;copy; 2019 Zhuohan Li</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://zhuohan.li/home/index.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +18,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://zhuohan.li/home/about/</guid>
-      <description>About Me I am currently finishing my undergraduate study at Peking University, advised by Prof. Liwei Wang. Previously, I was a research intern at Microsoft Research Asia and Stanford University. I will join UC Berkeley as a CS PhD student in fall 2019.
+      <description>About Me I am currently finishing my undergraduate study at Peking University, advised by Prof. Liwei Wang. Previously, I have interned at Microsoft Research Asia and Stanford University. I will join UC Berkeley as a CS PhD student in fall 2019.
 My main research interest is machine learning in general. Previously, I have worked on sequence modeling and 3D deep learning. I try to find insights from different domains and use them to improve the performance (accuracy, efficiency, interpretability) of current machine learning models.</description>
     </item>
     
