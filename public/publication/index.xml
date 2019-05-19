@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>Efficient Training of BERT by Progressively Stacking</title>
+      <link>https://zhuohan.li/publication/double-bert/</link>
+      <pubDate>Fri, 10 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhuohan.li/publication/double-bert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Towards Binary-Valued Gates for Robust LSTM Training</title>
       <link>https://zhuohan.li/publication/g2-lstm/</link>
       <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>

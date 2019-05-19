@@ -47,7 +47,7 @@ weight = 1
 
 # About Me
 
-I am currently finishing my undergraduate study at Peking University, advised by Prof. [Liwei Wang](http://www.cis.pku.edu.cn/faculty/vision/wangliwei/). Previously, I was a research intern at Microsoft Research Asia and Stanford University. I will join UC Berkeley as a CS PhD student in fall 2019.
+I am currently finishing my undergraduate study at Peking University, advised by Prof. [Liwei Wang](http://www.cis.pku.edu.cn/faculty/vision/wangliwei/). Previously, I have interned at Microsoft Research Asia and Stanford University. I will join UC Berkeley as a CS PhD student in fall 2019.
 
 My main research interest is machine learning in general. Previously, I have worked on sequence modeling and 3D deep learning. I try to find insights from different domains and use them to improve the performance (accuracy, efficiency, interpretability) of current machine learning models.
 
