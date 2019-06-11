@@ -18,7 +18,7 @@ count = 10
 detailed_list = false
 
 +++
-
+- **Top 10 undergraduate thesis** (School of EECS, Peking University)
 - **ACM-ICPC gold medals**
   - Dalian Regional 2016, China-Final 2016;
   - Xi'an Regional 2017, Ho-Chi-Minh City Regional 2017 (4th place).

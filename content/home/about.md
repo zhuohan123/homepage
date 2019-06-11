@@ -21,9 +21,14 @@ weight = 1
 # List your qualifications (such as academic degrees).
 
 [[education.courses]]
+  course = "University of California, Berkeley"
+  institution = "Ph.D. in Computer Science"
+  year = "Starting from Aug. 2019"
+
+[[education.courses]]
   course = "Peking University"
   institution = "B.S. in Computer Science"
-  year = "Sept. 2015 - Jul. 2019 (Expected)"
+  year = "Sept. 2015 - Jul. 2019"
 
 [[experience.courses]]
   course = "Microsoft Research Asia"
@@ -40,7 +45,7 @@ weight = 1
 [[experience.courses]]
   course = "Key Laboratory of Machine Perception (MOE), Peking Unviersity"
   institution = "Research Intern"
-  year = "Sept. 2016 - Present"
+  year = "Sept. 2016 - Jul. 2019"
   advisor = "[Liwei Wang](ttp://www.cis.pku.edu.cn/faculty/vision/wangliwei/)"
 
 +++
@@ -49,5 +54,5 @@ weight = 1
 
 I am currently finishing my undergraduate study at Peking University, advised by Prof. [Liwei Wang](http://www.cis.pku.edu.cn/faculty/vision/wangliwei/). Previously, I have interned at Microsoft Research Asia and Stanford University. I will join UC Berkeley as a CS PhD student in fall 2019.
 
-My main research interest is machine learning in general. Previously, I have worked on sequence modeling and 3D deep learning. I try to find insights from different domains and use them to improve the performance (accuracy, efficiency, interpretability) of current machine learning models.
+My research interest is machine learning in general. Previously, I have worked on sequence modeling and 3D deep learning. I try to find insights from different domains and use them to improve the performance (accuracy, efficiency, interpretability) of current machine learning models.
 
