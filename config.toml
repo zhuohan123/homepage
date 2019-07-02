@@ -1,6 +1,6 @@
 baseurl = "https://zhuohan.li/"  # End your URL with a `/` trailing slash.
 title = "Zhuohan Li"
-copyright = "Last Updated: Jun. 11, 2019 · &copy; 2019 Zhuohan Li"
+copyright = "Last Updated: Jul. 2, 2019 · &copy; 2019 Zhuohan Li"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -20,13 +20,13 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Zhuohan Li"
-  role = "Senior Student"
-  organization = "Peking University"
+  role = "PhD Student"
+  organization = "UC Berkeley"
   organization_url = ""
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "photo.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "{zhuohan123, lizhuohan} [at] pku.edu.cn, zhuohan [at] berkeley.edu"
-  address = "Peking University, No.5 Yiheyuan Road, Beijing, China, 100871"
+  email = "zhuohan [at] berkeley.edu"
+  # address = "Peking University, No.5 Yiheyuan Road, Beijing, China, 100871"
   # office_hours = "Monday 10:00 to 13:00 or email for appointment"
   phone = ""
   skype = ""
