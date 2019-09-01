@@ -23,7 +23,7 @@ weight = 1
 [[education.courses]]
   course = "University of California, Berkeley"
   institution = "Ph.D. in Computer Science"
-  year = "Starting from Aug. 2019"
+  year = "Aug. 2019 - Present"
 
 [[education.courses]]
   course = "Peking University"
@@ -52,7 +52,8 @@ weight = 1
 
 # About Me
 
-I am an incoming PhD student at UC Berkeley. Before that, I received my B.S. in Computer Science from Peking University, advised by Prof. [Liwei Wang](http://www.cis.pku.edu.cn/faculty/vision/wangliwei/).
+I am a PhD student in Computer Science at UC Berkeley, affiliated with [RISELab](https://rise.cs.berkeley.edu/) and [BAIR](https://bair.berkeley.edu).  Before that, I received my B.S. in Computer Science from Peking University, advised by Prof. [Liwei Wang](http://www.cis.pku.edu.cn/faculty/vision/wangliwei/).
 
 My research interest is machine learning in general. I try to find insights from different domains and use them to improve the performance (accuracy, efficiency, interpretability) of current machine learning models.
 
+  <i class="fa fa fa-envelope"></i><small><samp> zhuohan[at]cs.berkeley.edu</samp> </small>

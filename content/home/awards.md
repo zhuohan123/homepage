@@ -4,7 +4,7 @@
 date = "2016-04-20T00:00:00"
 draft = false
 
-title = "Awards"
+title = "Honors & Services"
 subtitle = ""
 widget = "custom"
 
@@ -28,3 +28,8 @@ detailed_list = false
   - Founder Scholarship (2015-2016, Peking University);
   - Huawei Scholarship (2016-2017, Peking University);
   - National Scholarship (2017-2018, Peking University).
+- **Teaching assistants**
+  - Practice of Programming in C&C++ (Spring 2017, PKU);
+  - Introduction to Computer Systems (CSAPP) (Fall 2017, PKU).
+- **Reviewers**
+  - AAAI 2019

@@ -3,7 +3,7 @@ abstract = """The Transformer architecture is widely used in natural language pr
 """
 abstract_short = ""
 authors = ["Yiping Lu*", "**Zhuohan Li***", "Di He", "Zhiqing Sun", "Bin Dong", "Tao Qin", "Liwei Wang", "Tie-Yan Liu (*Equal contribution)"]
-date = "2019-06-09"
+date = "2019-09-01"
 image_preview = ""
 math = true
 publication_types = ["4"]

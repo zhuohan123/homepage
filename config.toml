@@ -1,6 +1,6 @@
 baseurl = "https://zhuohan.li/"  # End your URL with a `/` trailing slash.
 title = "Zhuohan Li"
-copyright = "Last Updated: Jul. 2, 2019 · &copy; 2019 Zhuohan Li"
+copyright = "Last Updated: Sep. 1, 2019 · &copy; 2019 Zhuohan Li"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -25,7 +25,7 @@ defaultContentLanguageInSubdir = false
   organization_url = ""
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "photo.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "zhuohan [at] berkeley.edu"
+  email = "zhuohan [at] cs.berkeley.edu"
   # address = "Peking University, No.5 Yiheyuan Road, Beijing, China, 100871"
   # office_hours = "Monday 10:00 to 13:00 or email for appointment"
   phone = ""
@@ -170,19 +170,19 @@ defaultContentLanguageInSubdir = false
 #   weight = 4
 
 [[menu.main]]
-  name = "Awards"
+  name = "Honors & Services"
   url = "#awards"
   weight = 4
 
-[[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 5
+# [[menu.main]]
+#   name = "Teaching"
+#   url = "#teaching"
+#   weight = 5
 
-[[menu.main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 6
+# [[menu.main]]
+#   name = "Contact"
+#   url = "#contact"
+#   weight = 6
 
 # Taxonomies.
 [taxonomies]
