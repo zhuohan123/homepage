@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Zhuohan Li</title>
-    <link>https://zhuohan.li/categories/</link>
+    <link>https://people.eecs.berkeley.edu/~zhuohan/categories/</link>
     <description>Recent content in Categories on Zhuohan Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Last Updated: Sep. 1, 2019 · &amp;copy; 2019 Zhuohan Li</copyright>
     
-	<atom:link href="https://zhuohan.li/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://people.eecs.berkeley.edu/~zhuohan/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

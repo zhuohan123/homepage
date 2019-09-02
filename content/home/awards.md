@@ -32,4 +32,4 @@ detailed_list = false
   - Practice of Programming in C&C++ (Spring 2017, PKU);
   - Introduction to Computer Systems (CSAPP) (Fall 2017, PKU).
 - **Reviewers**
-  - AAAI 2019
+  - AAAI 2020.
