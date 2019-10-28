@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Zhuohan Li</title>
+    <link>https://people.eecs.berkeley.edu/~zhuohan/publication_types/2/</link>
+    <description>Recent content in 2 on Zhuohan Li</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Last Updated: Oct. 28, 2019 · &amp;copy; 2019 Zhuohan Li</copyright>
+    <lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://people.eecs.berkeley.edu/~zhuohan/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reproducing Vectorization of the Tersoff Multi-Body Potential on the Intel Broadwell Architecture</title>
+      <link>https://people.eecs.berkeley.edu/~zhuohan/publication/tersoff/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~zhuohan/publication/tersoff/</guid>
+      <description>[1] Höhnerbach, Markus, Ahmed E. Ismail, and Paolo Bientinesi. &amp;ldquo;The vectorization of the tersoff multi-body potential: an exercise in performance portability.&amp;rdquo; Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis. IEEE Press, 2016.</description>
+    </item>
+    
+    <item>
+      <title>ParConnect Reproducibility Report</title>
+      <link>https://people.eecs.berkeley.edu/~zhuohan/publication/parconnect/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~zhuohan/publication/parconnect/</guid>
+      <description>[1] Flick, Patrick, et al. &amp;ldquo;A parallel connectivity algorithm for de Bruijn graphs in metagenomic applications.&amp;rdquo; Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis. ACM, 2015.</description>
+    </item>
+    
+  </channel>
+</rss>
