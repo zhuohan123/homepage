@@ -6,11 +6,20 @@
     <description>Recent content in 1 on Zhuohan Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Last Updated: Oct. 28, 2019 · &amp;copy; 2019 Zhuohan Li</copyright>
-    <lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <copyright>Last Updated: Feb. 17, 2020 · &amp;copy; 2020 Zhuohan Li</copyright>
+    <lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://people.eecs.berkeley.edu/~zhuohan/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hoplite: Efficient Collective Communication for Task-Based Distributed Systems</title>
+      <link>https://people.eecs.berkeley.edu/~zhuohan/publication/hoplite/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~zhuohan/publication/hoplite/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Fast Structured Decoding for Sequence Models</title>

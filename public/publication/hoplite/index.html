@@ -52,11 +52,11 @@
   <link rel="icon" type="image/png" href="/~zhuohan/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/~zhuohan/img/apple-touch-icon.png">
 
-  <link rel="canonical" href="https://people.eecs.berkeley.edu/~zhuohan/publication/double-bert/">
+  <link rel="canonical" href="https://people.eecs.berkeley.edu/~zhuohan/publication/hoplite/">
 
   
 
-  <title>Efficient Training of BERT by Progressively Stacking | Zhuohan Li</title>
+  <title>Hoplite: Efficient Collective Communication for Task-Based Distributed Systems | Zhuohan Li</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71">
@@ -137,10 +137,10 @@
 
 
   <div class="container pub-title">
-    <h1 itemprop="name">Efficient Training of BERT by Progressively Stacking</h1>
+    <h1 itemprop="name">Hoplite: Efficient Collective Communication for Task-Based Distributed Systems</h1>
     <span class="pub-authors" itemprop="author">
       
-      Linyuan Gong, Di He, <strong>Zhuohan Li</strong>, Tao Qin, Liwei Wang, Tie-Yan Liu
+      Siyuan Zhuang*, <strong>Zhuohan Li</strong>*, Danyang Zhuo, Stephanie Wang, Robert Nishihara, Philipp Moritz, Ion Stoica (*Equal contribution)
       
     </span>
     <span class="pull-right">
@@ -149,35 +149,35 @@
   <ul class="share">
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fpeople.eecs.berkeley.edu%2f~zhuohan%2fpublication%2fdouble-bert%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fpeople.eecs.berkeley.edu%2f~zhuohan%2fpublication%2fhoplite%2f"
          target="_blank">
         <i class="fa fa-facebook"></i>
       </a>
     </li>
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Efficient%20Training%20of%20BERT%20by%20Progressively%20Stacking&amp;url=https%3a%2f%2fpeople.eecs.berkeley.edu%2f~zhuohan%2fpublication%2fdouble-bert%2f"
+         href="https://twitter.com/intent/tweet?text=Hoplite%3a%20Efficient%20Collective%20Communication%20for%20Task-Based%20Distributed%20Systems&amp;url=https%3a%2f%2fpeople.eecs.berkeley.edu%2f~zhuohan%2fpublication%2fhoplite%2f"
          target="_blank">
         <i class="fa fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fpeople.eecs.berkeley.edu%2f~zhuohan%2fpublication%2fdouble-bert%2f&amp;title=Efficient%20Training%20of%20BERT%20by%20Progressively%20Stacking"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fpeople.eecs.berkeley.edu%2f~zhuohan%2fpublication%2fhoplite%2f&amp;title=Hoplite%3a%20Efficient%20Collective%20Communication%20for%20Task-Based%20Distributed%20Systems"
          target="_blank">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fpeople.eecs.berkeley.edu%2f~zhuohan%2fpublication%2fdouble-bert%2f&amp;title=Efficient%20Training%20of%20BERT%20by%20Progressively%20Stacking"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fpeople.eecs.berkeley.edu%2f~zhuohan%2fpublication%2fhoplite%2f&amp;title=Hoplite%3a%20Efficient%20Collective%20Communication%20for%20Task-Based%20Distributed%20Systems"
          target="_blank">
         <i class="fa fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Efficient%20Training%20of%20BERT%20by%20Progressively%20Stacking&amp;body=https%3a%2f%2fpeople.eecs.berkeley.edu%2f~zhuohan%2fpublication%2fdouble-bert%2f">
+         href="mailto:?subject=Hoplite%3a%20Efficient%20Collective%20Communication%20for%20Task-Based%20Distributed%20Systems&amp;body=https%3a%2f%2fpeople.eecs.berkeley.edu%2f~zhuohan%2fpublication%2fhoplite%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -194,7 +194,8 @@
   
 
   <h3>Abstract</h3>
-  <p class="pub-abstract" itemprop="text">Unsupervised pre-training is commonly used in natural language processing: a deep neural network trained with proper unsupervised prediction tasks are shown to be effective in many downstream tasks. Because it is easy to create a large monolingual dataset by collecting data from the Web, we can train high-capacity models. Therefore, training efficiency becomes a critical issue even when using high-performance hardware. In this paper, we explore an efficient training method for the state-of-the-art bidirectional Transformer (BERT) model. By visualizing the self-attention distributions of different layers at different positions in a well-trained BERT model, we find that in most layers, the self-attention distribution will concentrate locally around its position and the start-of-sentence token. Motivated by this, we propose the stacking algorithm to transfer knowledge from a shallow model to a deep model; then we apply stacking progressively to accelerate BERT training. Experiments showed that the models trained by our training strategy achieve similar performance to models trained from scratch, but our algorithm is much faster.</p>
+  <p class="pub-abstract" itemprop="text">Collective communication systems such as MPI offer high performance group communication primitives at the cost of application flexibility. Today, an increasing number of distributed applications (e.g, reinforcement learning) require flexibility in expressing dynamic and asynchronous communication patterns. To accommodate these applications, task-based distributed computing frameworks (e.g., Ray, Dask, Hydro) have become popular as they allow applications to dynamically specify communication by invoking tasks, or functions, at runtime. This design makes efficient collective communication challenging because (1) the group of communicating processes is chosen at runtime, and (2) processes may not all be ready at the same time.
+We design and implement Hoplite, a communication layer for task-based distributed systems that achieves high performance collective communication without compromising application flexibility. The key idea of Hoplite is to use distributed protocols to compute a data transfer schedule on the fly. This enables the same optimizations used in traditional collective communication, but for applications that specify the communication incrementally. We show that Hoplite can achieve similar performance compared with a traditional collective communication library, MPICH. We port a popular distributed computing framework, Ray, on atop of Hoplite. We show that Hoplite can speed up asynchronous parameter server and distributed reinforcement learning workloads that are difficult to execute efficiently with traditional collective communication by up to 8.1x and 3.9x, respectively.</p>
 
   
   <div class="row">
@@ -221,7 +222,7 @@
     <div class="col-sm-10">
       <div class="row">
         <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-        <div class="col-xs-12 col-sm-9"><em>Thirty-sixth International Conference on Machine Learning (ICML 2019)</em></div>
+        <div class="col-xs-12 col-sm-9"><em>Preprint</em> (arXiv 2002.05814)</div>
       </div>
     </div>
     <div class="col-sm-1"></div>
@@ -234,7 +235,7 @@
       <div class="row">
         <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
         <div class="col-xs-12 col-sm-9" itemprop="datePublished">
-          May, 2019
+          February, 2020
         </div>
       </div>
     </div>
@@ -253,19 +254,19 @@
 
 
 
-<a class="btn btn-primary btn-outline" href="https://people.eecs.berkeley.edu/~zhuohan/pdf/double-bert-icml19.pdf">
+<a class="btn btn-primary btn-outline" href="https://arxiv.org/pdf/2002.05814.pdf">
   Paper
 </a>
 
 
 
 
-<a class="btn btn-primary btn-outline" href="https://github.com/gonglinyuan/StackingBERT">
-  Code
+
+
+
+<a class="btn btn-primary btn-outline" href="https://arxiv.org/abs/2002.05814">
+  arXiv
 </a>
-
-
-
 
 
 
@@ -286,13 +287,10 @@
   <nav>
   <ul class="pager">
     
-    <li class="previous"><a href="https://people.eecs.berkeley.edu/~zhuohan/publication/g2-lstm/"><span
-      aria-hidden="true">&larr;</span> Towards Binary-Valued Gates for Robust LSTM Training</a></li>
+    <li class="previous"><a href="https://people.eecs.berkeley.edu/~zhuohan/publication/macaron-net/"><span
+      aria-hidden="true">&larr;</span> Understanding and Improving Transformer From a Multi-Particle Dynamic System Point of View</a></li>
     
 
-    
-    <li class="next"><a href="https://people.eecs.berkeley.edu/~zhuohan/publication/hint-nart/">Hint-Based Training for Non-Autoregressive Machine Translation <span
-      aria-hidden="true">&rarr;</span></a></li>
     
   </ul>
 </nav>
