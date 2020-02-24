@@ -46,7 +46,7 @@ weight = 1
   course = "Key Laboratory of Machine Perception (MOE), Peking Unviersity"
   institution = "Research Intern"
   year = "Sept. 2016 - Jul. 2019"
-  advisor = "[Liwei Wang](ttp://www.cis.pku.edu.cn/faculty/vision/wangliwei/)"
+  advisor = "[Liwei Wang](http://www.liweiwang-pku.com/)"
 
 +++
 
