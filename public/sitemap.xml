@@ -1,5 +1,43 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    
+    <url>
+    
+      <loc>https://people.eecs.berkeley.edu/~zhuohan/publication_types/4/</loc>
+      <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://people.eecs.berkeley.edu/~zhuohan/publication_types/</loc>
+      <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://people.eecs.berkeley.edu/~zhuohan/publication/train-big-then-compress/</loc>
+      <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://people.eecs.berkeley.edu/~zhuohan/</loc>
+      <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
     
     
@@ -16,6 +54,16 @@
     
       <loc>https://people.eecs.berkeley.edu/~zhuohan/publication/macaron-net/</loc>
       <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://people.eecs.berkeley.edu/~zhuohan/publication_types/1/</loc>
+      <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -52,6 +100,16 @@
     
       <loc>https://people.eecs.berkeley.edu/~zhuohan/publication/g2-lstm/</loc>
       <lastmod>2018-07-05T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://people.eecs.berkeley.edu/~zhuohan/publication_types/2/</loc>
+      <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -113,36 +171,6 @@
     
     <url>
     
-      <loc>https://people.eecs.berkeley.edu/~zhuohan/publication_types/1/</loc>
-      <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://people.eecs.berkeley.edu/~zhuohan/publication_types/2/</loc>
-      <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://people.eecs.berkeley.edu/~zhuohan/publication_types/4/</loc>
-      <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://people.eecs.berkeley.edu/~zhuohan/categories/</loc>
       <priority>0</priority>
     </url>
@@ -152,28 +180,7 @@
     
     <url>
     
-      <loc>https://people.eecs.berkeley.edu/~zhuohan/publication_types/</loc>
-      <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://people.eecs.berkeley.edu/~zhuohan/tags/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://people.eecs.berkeley.edu/~zhuohan/</loc>
-      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

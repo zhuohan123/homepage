@@ -56,4 +56,5 @@ I am a PhD student in Computer Science at UC Berkeley advised by Prof. [Ion Stoi
 
 My interest lies in the intersection of machine learning and distributed systems. I try to find insights from different domains and use them to improve the performance (accuracy, efficiency, interpretability) of current machine learning models.
 
-  <i class="fa fa fa-envelope"></i><small><samp> zhuohan[at]cs.berkeley.edu</samp> </small>
+  <i class="fa fa fa-envelope"></i><small><samp> zhuohan[at]cs.berkeley.edu</samp> </small><br>
+  &nbsp;<i class="fa fa fa-map-marker"></i>&nbsp;<small><samp> 465 Soda Hall</samp> </small>

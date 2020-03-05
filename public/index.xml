@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zhuohan Li on Zhuohan Li</title>
@@ -7,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Last Updated: Feb. 24, 2020 · &amp;copy; 2020 Zhuohan Li</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="/~zhuohan/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Train Large, Then Compress: Rethinking Model Size for Efficient Training and Inference of Transformers</title>
+      <link>https://people.eecs.berkeley.edu/~zhuohan/publication/train-big-then-compress/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~zhuohan/publication/train-big-then-compress/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hoplite: Efficient Collective Communication for Task-Based Distributed Systems</title>

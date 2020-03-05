@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Last Updated: Feb. 24, 2020 · &amp;copy; 2020 Zhuohan Li</copyright>
-    <lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://people.eecs.berkeley.edu/~zhuohan/publication_types/4/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Train Large, Then Compress: Rethinking Model Size for Efficient Training and Inference of Transformers</title>
+      <link>https://people.eecs.berkeley.edu/~zhuohan/publication/train-big-then-compress/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~zhuohan/publication/train-big-then-compress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hoplite: Efficient Collective Communication for Task-Based Distributed Systems</title>
+      <link>https://people.eecs.berkeley.edu/~zhuohan/publication/hoplite/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~zhuohan/publication/hoplite/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Understanding and Improving Transformer From a Multi-Particle Dynamic System Point of View</title>

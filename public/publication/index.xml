@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>Train Large, Then Compress: Rethinking Model Size for Efficient Training and Inference of Transformers</title>
+      <link>https://people.eecs.berkeley.edu/~zhuohan/publication/train-big-then-compress/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~zhuohan/publication/train-big-then-compress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Hoplite: Efficient Collective Communication for Task-Based Distributed Systems</title>
       <link>https://people.eecs.berkeley.edu/~zhuohan/publication/hoplite/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
