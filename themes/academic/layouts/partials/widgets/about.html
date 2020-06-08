@@ -64,7 +64,7 @@
         </ul>
       </div>
       {{ end }}
-      
+
       {{ with $page.Params.experience }}
       <div class="col-sm-7">
         <h3>{{ i18n "experience" | markdownify }}</h3>
@@ -75,7 +75,7 @@
             <div class="description">
               <p class="course">{{ .course }}</p>
               <p class="institution">{{ .institution }}</p>
-              <p class="institution">Advisor: {{ .advisor | markdownify }}</p>
+              <p class="institution">{{ .advisor | markdownify }}</p>
               <p class="institution">{{ .year }}</p>
             </div>
           </li>

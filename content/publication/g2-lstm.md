@@ -12,10 +12,14 @@ selected = true
 title = "Towards Binary-Valued Gates for Robust LSTM Training"
 url_code = "https://github.com/zhuohan123/g2-lstm"
 # url_dataset = "#"
-url_pdf = "pdf/g2-lstm-icml18.pdf"
+url_pdf = "https://arxiv.org/pdf/1806.02988.pdf"
 # url_project = "project/deep-learning/"
-url_slides = "pdf/g2-lstm-icml18-slides.pdf"
+url_slides = "pdf/g2-lstm-slides.pdf"
 url_video = "https://vimeo.com/287802865"
+
+[[url_custom]]
+name = "Poster"
+url = "pdf/g2-lstm-poster.pdf"
 
 [[url_custom]]
 name = "arXiv"

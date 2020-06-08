@@ -14,8 +14,8 @@ url_code = "https://github.com/zhuohan123/hint-nart"
 # url_dataset = "#"
 url_pdf = "https://arxiv.org/pdf/1909.06708.pdf"
 # url_project = "project/deep-learning/"
-# url_slides = "pdf/g2-lstm-icml18-slides.pdf"
-# url_video = "https://vimeo.com/287802865"
+url_slides = "pdf/hint-nart-slides.pdf"
+url_video = "https://vimeo.com/396299266"
 
 [[url_custom]]
 name = "arXiv"

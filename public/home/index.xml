@@ -6,7 +6,7 @@
     <description>Recent content in Homes on Zhuohan Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Last Updated: Feb. 24, 2020 · &amp;copy; 2020 Zhuohan Li</copyright>
+    <copyright>Last Updated: Jun. 2020 · &amp;copy; 2020 Zhuohan Li</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://people.eecs.berkeley.edu/~zhuohan/home/index.xml" rel="self" type="application/rss+xml" />
@@ -19,7 +19,9 @@
       
       <guid>https://people.eecs.berkeley.edu/~zhuohan/home/about/</guid>
       <description>About Me I am a PhD student in Computer Science at UC Berkeley advised by Prof. Ion Stoica. Before that, I received my B.S. in Computer Science from Peking University, advised by Prof. Liwei Wang.
-My interest lies in the intersection of machine learning and distributed systems. I try to find insights from different domains and use them to improve the performance (accuracy, efficiency, interpretability) of current machine learning models.</description>
+My interest lies in the intersection of machine learning and distributed systems. I use insights from different domains to improve the performance (accuracy, efficiency, interpretability) of current machine learning models.
+ zhuohan[at]cs.berkeley.edu 
+&amp;nbsp;&amp;nbsp; 465 Soda Hall</description>
     </item>
     
     <item>
@@ -29,15 +31,6 @@ My interest lies in the intersection of machine learning and distributed systems
       
       <guid>https://people.eecs.berkeley.edu/~zhuohan/home/publications/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Honors &amp; Services</title>
-      <link>https://people.eecs.berkeley.edu/~zhuohan/home/awards/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://people.eecs.berkeley.edu/~zhuohan/home/awards/</guid>
-      <description>Top 10 undergraduate thesis (School of EECS, Peking University) ACM-ICPC gold medals  Dalian Regional 2016, China-Final 2016; Xi&amp;rsquo;an Regional 2017, Ho-Chi-Minh City Regional 2017 (4th place).  Student cluster competitions  6th place at SC16, 4th place at SC17.  Scholarships  Founder Scholarship (2015-2016, Peking University); Huawei Scholarship (2016-2017, Peking University); National Scholarship (2017-2018, Peking University).  Teaching assistants  Practice of Programming in C&amp;amp;C++ (Spring 2017, PKU); Introduction to Computer Systems (CSAPP) (Fall 2017, PKU).</description>
     </item>
     
   </channel>

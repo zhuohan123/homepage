@@ -18,6 +18,10 @@ url_pdf = "https://arxiv.org/pdf/1910.11555.pdf"
 # url_video = "https://vimeo.com/287802865"
 
 [[url_custom]]
+name = "Poster"
+url = "pdf/nart-crf-poster.pdf"
+
+[[url_custom]]
 name = "arXiv"
 url = "https://arxiv.org/abs/1910.11555"
 

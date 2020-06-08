@@ -31,22 +31,32 @@ weight = 1
   year = "Sept. 2015 - Jul. 2019"
 
 [[experience.courses]]
+  course = "Anyscale"
+  institution = "Software Engineer Intern"
+  year = "May. 2020 - Present"
+
+# [[experience.courses]]
+#   course = "UC Berkeley RISE Lab"
+#   institution = "Software Engineer Intern"
+#   year = "Jun. 2017 - Jun. 2018, Sept. 2018 - Mar. 2019"
+
+[[experience.courses]]
   course = "Microsoft Research Asia"
-  institution = "Research Intern in Machine Learning Group"
+  institution = "Research Intern"
   year = "Jun. 2017 - Jun. 2018, Sept. 2018 - Mar. 2019"
-  advisor = "[Di He](https://www.microsoft.com/en-us/research/people/dihe/) and [Tao Qin](https://www.microsoft.com/en-us/research/people/taoqin/)"
+  advisor = "Advisors: [Di He](https://www.microsoft.com/en-us/research/people/dihe/) and [Tao Qin](https://www.microsoft.com/en-us/research/people/taoqin/)"
 
 [[experience.courses]]
   course = "Stanford University"
   institution = "Research Intern"
   year = "Jun. 2018 - Sept. 2018"
-  advisor = "[Li Yi](https://cs.stanford.edu/~ericyi/) and [Leo Guibas](https://geometry.stanford.edu/member/guibas/)"
+  advisor = "Advisors: [Li Yi](https://cs.stanford.edu/~ericyi/) and [Leo Guibas](https://geometry.stanford.edu/member/guibas/)"
 
-[[experience.courses]]
-  course = "Key Laboratory of Machine Perception (MOE), Peking Unviersity"
-  institution = "Research Intern"
-  year = "Sept. 2016 - Jul. 2019"
-  advisor = "[Liwei Wang](http://www.liweiwang-pku.com/)"
+# [[experience.courses]]
+#   course = "Key Laboratory of Machine Perception (MOE), Peking Unviersity"
+#   institution = "Research Intern"
+#   year = "Sept. 2016 - Jul. 2019"
+#   advisor = "Advisor: [Liwei Wang](http://www.liweiwang-pku.com/)"
 
 +++
 
@@ -54,7 +64,7 @@ weight = 1
 
 I am a PhD student in Computer Science at UC Berkeley advised by Prof. [Ion Stoica](https://people.eecs.berkeley.edu/~istoica/).  Before that, I received my B.S. in Computer Science from Peking University, advised by Prof. [Liwei Wang](http://www.liweiwang-pku.com/).
 
-My interest lies in the intersection of machine learning and distributed systems. I try to find insights from different domains and use them to improve the performance (accuracy, efficiency, interpretability) of current machine learning models.
+My interest lies in the intersection of machine learning and distributed systems. I use insights from different domains to improve the performance (accuracy, efficiency, interpretability) of current machine learning models.
 
   <i class="fa fa fa-envelope"></i><small><samp> zhuohan[at]cs.berkeley.edu</samp> </small><br>
   &nbsp;<i class="fa fa fa-map-marker"></i>&nbsp;<small><samp> 465 Soda Hall</samp> </small>

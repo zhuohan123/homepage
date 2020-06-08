@@ -1,7 +1,7 @@
 # baseurl = "https://zhuohan.li/"  # End your URL with a `/` trailing slash.
 baseurl = "https://people.eecs.berkeley.edu/~zhuohan/"  # End your URL with a `/` trailing slash.
 title = "Zhuohan Li"
-copyright = "Last Updated: Feb. 24, 2020 · &copy; 2020 Zhuohan Li"
+copyright = "Last Updated: Jun. 2020 · &copy; 2020 Zhuohan Li"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -128,7 +128,7 @@ defaultContentLanguageInSubdir = false
 #   icon = "envelope"
 #   icon_pack = "fa"
 #   link = "mailto:zhuohan123@pku.edu.cn"
-# 
+#
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
@@ -164,16 +164,16 @@ defaultContentLanguageInSubdir = false
 #    name = "Posts"
 #    url = "#posts"
 #    weight = 3
-# 
+#
 # [[menu.main]]
 #   name = "Projects"
 #   url = "#projects"
 #   weight = 4
 
-[[menu.main]]
-  name = "Honors & Services"
-  url = "#awards"
-  weight = 4
+# [[menu.main]]
+#   name = "Honors & Services"
+#   url = "#awards"
+#   weight = 4
 
 # [[menu.main]]
 #   name = "Teaching"
