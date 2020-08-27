@@ -33,7 +33,7 @@ weight = 1
 [[experience.courses]]
   course = "Anyscale"
   institution = "Software Engineer Intern"
-  year = "May. 2020 - Present"
+  year = "May. 2020 - Aug. 2020"
 
 # [[experience.courses]]
 #   course = "UC Berkeley RISE Lab"
