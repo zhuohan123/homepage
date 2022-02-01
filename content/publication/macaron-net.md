@@ -3,12 +3,13 @@ abstract = """The Transformer architecture is widely used in natural language pr
 """
 abstract_short = ""
 authors = ["Yiping Lu*", "**Zhuohan Li***", "Di He", "Zhiqing Sun", "Bin Dong", "Tao Qin", "Liwei Wang", "Tie-Yan Liu (*Equal contribution)"]
-date = "2019-10-01"
+date = "2019-09-01"
 image_preview = ""
 math = true
 publication_types = ["4"]
 publication = "arXiv 1906.02762"
-publication_short = """*NeurIPS 2019* ML4PS Workshop, *Preprint* (arXiv 1906.02762)"""
+publication_short = """*NeurIPS 2019 Workshop on Machine Learning and the Physical Sciences*"""
+publication_short_second = """*ICLR 2020 Workshop on Integration of Deep Neural Models and Differential Equations*"""
 selected = true
 title = "Understanding and Improving Transformer From a Multi-Particle Dynamic System Point of View"
 url_code = "https://github.com/zhuohan123/macaron-net"

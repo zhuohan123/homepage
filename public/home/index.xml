@@ -6,7 +6,7 @@
     <description>Recent content in Homes on Zhuohan Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Last Updated: Aug. 2020 · &amp;copy; 2020 Zhuohan Li</copyright>
+    <copyright>Last Updated: Jan. 2022 · &amp;copy; 2022 Zhuohan Li</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://people.eecs.berkeley.edu/~zhuohan/home/index.xml" rel="self" type="application/rss+xml" />
@@ -18,10 +18,9 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://people.eecs.berkeley.edu/~zhuohan/home/about/</guid>
-      <description>About Me I am a PhD student in Computer Science at UC Berkeley advised by Prof. Ion Stoica. Before that, I received my B.S. in Computer Science from Peking University, advised by Prof. Liwei Wang.
-My interest lies in the intersection of machine learning and distributed systems. I use insights from different domains to improve the performance (accuracy, efficiency, interpretability) of current machine learning models.
- zhuohan[at]cs.berkeley.edu 
-&amp;nbsp;&amp;nbsp; 465 Soda Hall</description>
+      <description>About Me I am a PhD student in Computer Science at UC Berkeley advised by Ion Stoica. Before that, I received my B.S. in Computer Science from Peking University, advised by Liwei Wang.
+My interest lies in the intersection of machine learning and distributed systems. I use insights from different domains to improve the performance (accuracy, efficiency, and interpretability) of current machine learning models.
+Currently, I am also interning at Google Brain, working on model parallel training and inference.</description>
     </item>
     
     <item>

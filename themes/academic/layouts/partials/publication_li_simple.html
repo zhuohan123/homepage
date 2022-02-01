@@ -13,6 +13,12 @@
     {{ .Params.publication | markdownify }}
     {{ end }}
   </div>
+  <div class="pub-publication">
+    {{ if .Params.publication_short_second }}
+    {{ .Params.publication_short_second | markdownify }}
+    {{ else }}
+    {{ end }}
+  </div>
   <p>{{ partial "publication_links" (dict "content" . "is_list" 1) }}</p>
 </li>
 

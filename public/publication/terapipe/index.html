@@ -52,11 +52,11 @@
   <link rel="icon" type="image/png" href="/~zhuohan/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/~zhuohan/img/apple-touch-icon.png">
 
-  <link rel="canonical" href="https://people.eecs.berkeley.edu/~zhuohan/publication/tersoff/">
+  <link rel="canonical" href="https://people.eecs.berkeley.edu/~zhuohan/publication/terapipe/">
 
   
 
-  <title>Reproducing Vectorization of the Tersoff Multi-Body Potential on the Intel Broadwell Architecture | Zhuohan Li</title>
+  <title>TeraPipe: Token-Level Pipeline Parallelism for Training Large-Scale Language Models | Zhuohan Li</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71">
@@ -125,10 +125,10 @@
 
 
   <div class="container pub-title">
-    <h1 itemprop="name">Reproducing Vectorization of the Tersoff Multi-Body Potential on the Intel Broadwell Architecture</h1>
+    <h1 itemprop="name">TeraPipe: Token-Level Pipeline Parallelism for Training Large-Scale Language Models</h1>
     <span class="pub-authors" itemprop="author">
       
-      Zhenxin Fu, Lei Yang, Wenbin Hou, <strong>Zhuohan Li</strong>, Yifan Wu, Yihua Cheng, Xiaolin Wang, Yun Liang
+      <strong>Zhuohan Li</strong>, Siyuan Zhuang, Shiyuan Guo, Danyang Zhuo, Hao Zhang, Dawn Song, Ion Stoica
       
     </span>
     <span class="pull-right">
@@ -137,35 +137,35 @@
   <ul class="share">
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fpeople.eecs.berkeley.edu%2f~zhuohan%2fpublication%2ftersoff%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fpeople.eecs.berkeley.edu%2f~zhuohan%2fpublication%2fterapipe%2f"
          target="_blank">
         <i class="fa fa-facebook"></i>
       </a>
     </li>
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Reproducing%20Vectorization%20of%20the%20Tersoff%20Multi-Body%20Potential%20on%20the%20Intel%20Broadwell%20Architecture&amp;url=https%3a%2f%2fpeople.eecs.berkeley.edu%2f~zhuohan%2fpublication%2ftersoff%2f"
+         href="https://twitter.com/intent/tweet?text=TeraPipe%3a%20Token-Level%20Pipeline%20Parallelism%20for%20Training%20Large-Scale%20Language%20Models&amp;url=https%3a%2f%2fpeople.eecs.berkeley.edu%2f~zhuohan%2fpublication%2fterapipe%2f"
          target="_blank">
         <i class="fa fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fpeople.eecs.berkeley.edu%2f~zhuohan%2fpublication%2ftersoff%2f&amp;title=Reproducing%20Vectorization%20of%20the%20Tersoff%20Multi-Body%20Potential%20on%20the%20Intel%20Broadwell%20Architecture"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fpeople.eecs.berkeley.edu%2f~zhuohan%2fpublication%2fterapipe%2f&amp;title=TeraPipe%3a%20Token-Level%20Pipeline%20Parallelism%20for%20Training%20Large-Scale%20Language%20Models"
          target="_blank">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fpeople.eecs.berkeley.edu%2f~zhuohan%2fpublication%2ftersoff%2f&amp;title=Reproducing%20Vectorization%20of%20the%20Tersoff%20Multi-Body%20Potential%20on%20the%20Intel%20Broadwell%20Architecture"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fpeople.eecs.berkeley.edu%2f~zhuohan%2fpublication%2fterapipe%2f&amp;title=TeraPipe%3a%20Token-Level%20Pipeline%20Parallelism%20for%20Training%20Large-Scale%20Language%20Models"
          target="_blank">
         <i class="fa fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Reproducing%20Vectorization%20of%20the%20Tersoff%20Multi-Body%20Potential%20on%20the%20Intel%20Broadwell%20Architecture&amp;body=https%3a%2f%2fpeople.eecs.berkeley.edu%2f~zhuohan%2fpublication%2ftersoff%2f">
+         href="mailto:?subject=TeraPipe%3a%20Token-Level%20Pipeline%20Parallelism%20for%20Training%20Large-Scale%20Language%20Models&amp;body=https%3a%2f%2fpeople.eecs.berkeley.edu%2f~zhuohan%2fpublication%2fterapipe%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -182,7 +182,7 @@
   
 
   <h3>Abstract</h3>
-  <p class="pub-abstract" itemprop="text">Höhnerbach et al. [1] proposed a general optimization method for the multi-body potential problem by exploiting vectorization on various of architectures using LAMMPS. As a task of the Student Cluster Competition in The International Conference for High Performance Computing, Networking, Storage and Analysis (SC17), we tried to reproduce the optimizations proposed in the paper. The molecular dynamics simulation of crystalline silicon is performed with LAMMPS on both our own single-node Intel Xeon machine and the cloud resource. The accuracy of the computation results is examined. The performance of the optimized program is compared with the original version to study the effectiveness and the scalability of the proposed optimization.</p>
+  <p class="pub-abstract" itemprop="text">Model parallelism has become a necessity for training modern large-scale deep language models. In this work, we identify a new and orthogonal dimension from existing model parallel approaches: it is possible to perform pipeline parallelism within a single training sequence for Transformer-based language models thanks to its autoregressive property. This enables a more fine-grained pipeline compared with previous work. With this key idea, we design TeraPipe, a high-performance token-level pipeline parallel algorithm for synchronous model-parallel training of Transformer-based language models. We develop a novel dynamic programming-based algorithm to calculate the optimal pipelining execution scheme given a specific model and cluster configuration. We show that TeraPipe can speed up the training by 5.0x for the largest GPT-3 model with 175 billion parameters on an AWS cluster with 48 p3.16xlarge instances compared with state-of-the-art model-parallel methods.</p>
 
   
   <div class="row">
@@ -192,8 +192,8 @@
         <div class="col-xs-12 col-sm-3 pub-row-heading">Type</div>
         <div class="col-xs-12 col-sm-9">
           
-          <a href="/~zhuohan/publication/#2">
-            Journal
+          <a href="/~zhuohan/publication/#4">
+            Technical report
           </a>
           
         </div>
@@ -209,7 +209,7 @@
     <div class="col-sm-10">
       <div class="row">
         <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-        <div class="col-xs-12 col-sm-9"><em>Parallel Computing</em> (from the reproducibility challenge of SC17 student cluster competition)</div>
+        <div class="col-xs-12 col-sm-9"><em>ICML 2021</em></div>
       </div>
     </div>
     <div class="col-sm-1"></div>
@@ -222,7 +222,7 @@
       <div class="row">
         <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
         <div class="col-xs-12 col-sm-9" itemprop="datePublished">
-          June, 2018
+          May, 2021
         </div>
       </div>
     </div>
@@ -241,8 +241,13 @@
 
 
 
-<a class="btn btn-primary btn-outline" href="https://people.eecs.berkeley.edu/~zhuohan/pdf/tersoff-reproducibility-report.pdf">
+<a class="btn btn-primary btn-outline" href="https://arxiv.org/pdf/2102.07988.pdf">
   Paper
+</a>
+
+
+<a class="btn btn-primary btn-outline" href="https://github.com/zhuohan123/terapipe">
+  Code
 </a>
 
 
@@ -250,9 +255,8 @@
 
 
 
-
-<a class="btn btn-primary btn-outline" href="https://doi.org/10.1016/j.parco.2018.06.010">
-  DOI
+<a class="btn btn-primary btn-outline" href="https://arxiv.org/abs/2102.07988">
+  arXiv
 </a>
 
 
@@ -266,8 +270,7 @@
 
   <div class="space-below"></div>
 
-  <div class="article-style"><p>[1] Höhnerbach, Markus, Ahmed E. Ismail, and Paolo Bientinesi. &ldquo;The vectorization of the tersoff multi-body potential: an exercise in performance portability.&rdquo; <em>Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis.</em> IEEE Press, 2016.</p>
-</div>
+  <div class="article-style"></div>
 
 </div>
 
@@ -275,12 +278,12 @@
   <nav>
   <ul class="pager">
     
-    <li class="previous"><a href="https://people.eecs.berkeley.edu/~zhuohan/publication/parconnect/"><span
-      aria-hidden="true">&larr;</span> ParConnect Reproducibility Report</a></li>
+    <li class="previous"><a href="https://people.eecs.berkeley.edu/~zhuohan/publication/hoplite/"><span
+      aria-hidden="true">&larr;</span> Hoplite: Efficient and Fault-Tolerant Collective Communication for Task-Based Distributed Systems</a></li>
     
 
     
-    <li class="next"><a href="https://people.eecs.berkeley.edu/~zhuohan/publication/g2-lstm/">Towards Binary-Valued Gates for Robust LSTM Training <span
+    <li class="next"><a href="https://people.eecs.berkeley.edu/~zhuohan/publication/lightning/">Rearchitecting In-Memory Object Stores for Low Latency <span
       aria-hidden="true">&rarr;</span></a></li>
     
   </ul>

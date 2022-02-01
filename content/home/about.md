@@ -31,6 +31,12 @@ weight = 1
   year = "Sept. 2015 - Jul. 2019"
 
 [[experience.courses]]
+  course = "Google Brain"
+  institution = "Research Intern"
+  year = "May. 2021 - Present"
+  advisor = "Hosts: [Yanping Huang](https://scholar.google.com/citations?user=uEtBQScAAAAJ&hl=en), [Yuanzhong Xu](https://scholar.google.com/citations?user=KzRHnx0AAAAJ&hl=en), and [Zhifeng Chen](https://scholar.google.com/citations?user=EemUE4gAAAAJ&hl=en)"
+
+[[experience.courses]]
   course = "Anyscale"
   institution = "Software Engineer Intern"
   year = "May. 2020 - Aug. 2020"
@@ -44,13 +50,13 @@ weight = 1
   course = "Microsoft Research Asia"
   institution = "Research Intern"
   year = "Jun. 2017 - Jun. 2018, Sept. 2018 - Mar. 2019"
-  advisor = "Advisors: [Di He](https://www.microsoft.com/en-us/research/people/dihe/) and [Tao Qin](https://www.microsoft.com/en-us/research/people/taoqin/)"
+  advisor = "Hosts: [Di He](https://www.microsoft.com/en-us/research/people/dihe/) and [Tao Qin](https://www.microsoft.com/en-us/research/people/taoqin/)"
 
 [[experience.courses]]
   course = "Stanford University"
   institution = "Research Intern"
   year = "Jun. 2018 - Sept. 2018"
-  advisor = "Advisors: [Li Yi](https://cs.stanford.edu/~ericyi/) and [Leo Guibas](https://geometry.stanford.edu/member/guibas/)"
+  advisor = "Hosts: [Li Yi](https://cs.stanford.edu/~ericyi/) and [Leo Guibas](https://geometry.stanford.edu/member/guibas/)"
 
 # [[experience.courses]]
 #   course = "Key Laboratory of Machine Perception (MOE), Peking Unviersity"
@@ -62,9 +68,11 @@ weight = 1
 
 # About Me
 
-I am a PhD student in Computer Science at UC Berkeley advised by Prof. [Ion Stoica](https://people.eecs.berkeley.edu/~istoica/).  Before that, I received my B.S. in Computer Science from Peking University, advised by Prof. [Liwei Wang](http://www.liweiwang-pku.com/).
+I am a PhD student in Computer Science at UC Berkeley advised by [Ion Stoica](https://people.eecs.berkeley.edu/~istoica/).  Before that, I received my B.S. in Computer Science from Peking University, advised by [Liwei Wang](http://www.liweiwang-pku.com/).
 
-My interest lies in the intersection of machine learning and distributed systems. I use insights from different domains to improve the performance (accuracy, efficiency, interpretability) of current machine learning models.
+My interest lies in the intersection of machine learning and distributed systems. I use insights from different domains to improve the performance (accuracy, efficiency, and interpretability) of current machine learning models.
+
+Currently, I am also interning at Google Brain, working on model parallel training and inference.
 
   <i class="fa fa fa-envelope"></i><small><samp> zhuohan[at]cs.berkeley.edu</samp> </small><br>
   &nbsp;<i class="fa fa fa-map-marker"></i>&nbsp;<small><samp> 465 Soda Hall</samp> </small>

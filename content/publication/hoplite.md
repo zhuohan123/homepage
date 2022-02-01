@@ -4,17 +4,17 @@ We design and implement Hoplite, a communication layer for task-based distribute
 """
 abstract_short = ""
 authors = ["Siyuan Zhuang*", "**Zhuohan Li***", "Danyang Zhuo", "Stephanie Wang", "Eric Liang", "Robert Nishihara", "Philipp Moritz", "Ion Stoica (*Equal contribution)"]
-date = "2020-02-01"
+date = "2021-05-01"
 image_preview = ""
 math = true
 publication_types = ["4"]
-publication = "*Preprint* (arXiv 2002.05814)"
-publication_short = "*Preprint* (arXiv 2002.05814)"
+publication = "*SIGCOMM 2021*"
+publication_short = "*SIGCOMM 2021*"
 selected = true
-title = "Hoplite: Efficient Collective Communication for Task-Based Distributed Systems"
-# url_code = "https://github.com/Edward-Sun/structured-nart"
+title = "Hoplite: Efficient and Fault-Tolerant Collective Communication for Task-Based Distributed Systems"
+url_code = "https://github.com/suquark/hoplite"
 # url_dataset = "#"
-url_pdf = "https://arxiv.org/pdf/2002.05814.pdf"
+url_pdf = "https://dl.acm.org/doi/pdf/10.1145/3452296.3472897"
 # url_project = "project/deep-learning/"
 # url_slides = "pdf/g2-lstm-icml18-slides.pdf"
 # url_video = "https://vimeo.com/287802865"

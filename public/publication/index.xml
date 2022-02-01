@@ -6,45 +6,72 @@
     <description>Recent content in Publications on Zhuohan Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Last Updated: Aug. 2020 · &amp;copy; 2020 Zhuohan Li</copyright>
+    <copyright>Last Updated: Jan. 2022 · &amp;copy; 2022 Zhuohan Li</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://people.eecs.berkeley.edu/~zhuohan/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Train Large, Then Compress: Rethinking Model Size for Efficient Training and Inference of Transformers</title>
-      <link>https://people.eecs.berkeley.edu/~zhuohan/publication/train-big-then-compress/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <title>Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning</title>
+      <link>https://people.eecs.berkeley.edu/~zhuohan/publication/alpa/</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://people.eecs.berkeley.edu/~zhuohan/publication/train-big-then-compress/</guid>
+      <guid>https://people.eecs.berkeley.edu/~zhuohan/publication/alpa/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Hoplite: Efficient Collective Communication for Task-Based Distributed Systems</title>
+      <title>Rearchitecting In-Memory Object Stores for Low Latency</title>
+      <link>https://people.eecs.berkeley.edu/~zhuohan/publication/lightning/</link>
+      <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~zhuohan/publication/lightning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TeraPipe: Token-Level Pipeline Parallelism for Training Large-Scale Language Models</title>
+      <link>https://people.eecs.berkeley.edu/~zhuohan/publication/terapipe/</link>
+      <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~zhuohan/publication/terapipe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hoplite: Efficient and Fault-Tolerant Collective Communication for Task-Based Distributed Systems</title>
       <link>https://people.eecs.berkeley.edu/~zhuohan/publication/hoplite/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://people.eecs.berkeley.edu/~zhuohan/publication/hoplite/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Understanding and Improving Transformer From a Multi-Particle Dynamic System Point of View</title>
-      <link>https://people.eecs.berkeley.edu/~zhuohan/publication/macaron-net/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <title>Train Large, Then Compress: Rethinking Model Size for Efficient Training and Inference of Transformers</title>
+      <link>https://people.eecs.berkeley.edu/~zhuohan/publication/train-large-then-compress/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://people.eecs.berkeley.edu/~zhuohan/publication/macaron-net/</guid>
+      <guid>https://people.eecs.berkeley.edu/~zhuohan/publication/train-large-then-compress/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fast Structured Decoding for Sequence Models</title>
       <link>https://people.eecs.berkeley.edu/~zhuohan/publication/nart-crf/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://people.eecs.berkeley.edu/~zhuohan/publication/nart-crf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding and Improving Transformer From a Multi-Particle Dynamic System Point of View</title>
+      <link>https://people.eecs.berkeley.edu/~zhuohan/publication/macaron-net/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~zhuohan/publication/macaron-net/</guid>
       <description></description>
     </item>
     
