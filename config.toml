@@ -1,7 +1,7 @@
 # baseurl = "https://zhuohan.li/"  # End your URL with a `/` trailing slash.
 baseurl = "https://people.eecs.berkeley.edu/~zhuohan/"  # End your URL with a `/` trailing slash.
 title = "Zhuohan Li"
-copyright = "Last Updated: Jan. 2022 · &copy; 2022 Zhuohan Li"
+copyright = "Last Updated: Mar. 2022 · &copy; 2022 Zhuohan Li"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"

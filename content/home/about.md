@@ -72,7 +72,7 @@ I am a PhD student in Computer Science at UC Berkeley advised by [Ion Stoica](ht
 
 My interest lies in the intersection of machine learning and distributed systems. I use insights from different domains to improve the performance (accuracy, efficiency, and interpretability) of current machine learning models.
 
-Currently, I am also interning at Google Brain, working on model parallel training and inference.
+I am currently working on [Alpa](https://github.com/alpa-projects/alpa), an automatic model parallel training framework.
 
   <i class="fa fa fa-envelope"></i><small><samp> zhuohan[at]cs.berkeley.edu</samp> </small><br>
   &nbsp;<i class="fa fa fa-map-marker"></i>&nbsp;<small><samp> 465 Soda Hall</samp> </small>
