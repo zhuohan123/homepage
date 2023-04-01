@@ -50,13 +50,13 @@ weight = 1
   course = "Microsoft Research Asia"
   institution = "Research Intern"
   year = "Jun. 2017 - Jun. 2018, Sept. 2018 - Mar. 2019"
-  advisor = "Hosts: [Di He](https://www.microsoft.com/en-us/research/people/dihe/) and [Tao Qin](https://www.microsoft.com/en-us/research/people/taoqin/)"
+  advisor = "Hosts: [Di He](https://dihe-pku.github.io/) and [Tao Qin](https://www.microsoft.com/en-us/research/people/taoqin/)"
 
 [[experience.courses]]
   course = "Stanford University"
   institution = "Research Intern"
   year = "Jun. 2018 - Sept. 2018"
-  advisor = "Hosts: [Li Yi](https://cs.stanford.edu/~ericyi/) and [Leo Guibas](https://geometry.stanford.edu/member/guibas/)"
+  advisor = "Hosts: [Li Yi](https://ericyi.github.io/) and [Leo Guibas](https://geometry.stanford.edu/member/guibas/)"
 
 # [[experience.courses]]
 #   course = "Key Laboratory of Machine Perception (MOE), Peking Unviersity"
@@ -68,7 +68,7 @@ weight = 1
 
 # About Me
 
-I am a PhD student in Computer Science at UC Berkeley advised by [Ion Stoica](https://people.eecs.berkeley.edu/~istoica/).  Before that, I received my B.S. in Computer Science from Peking University, advised by [Liwei Wang](http://www.liweiwang-pku.com/).
+I am a PhD student in Computer Science at UC Berkeley advised by [Ion Stoica](https://people.eecs.berkeley.edu/~istoica/).  Before that, I received my B.S. in Computer Science from Peking University, advised by [Liwei Wang](http://www.liweiwang-pku.com/) and [Di He](https://dihe-pku.github.io/).
 
 My interest lies in the intersection of machine learning and distributed systems. I use insights from different domains to improve the performance (accuracy, efficiency, and interpretability) of current machine learning models.
 
